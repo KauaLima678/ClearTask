@@ -24,7 +24,7 @@ Um aplicativo web para gerenciamento de tarefas pessoais desenvolvido com PHP, M
 
 ## 🖥️ Preview
 
-![Clear Task Preview](./assets/imgs/Clear%20Task%20Preview.png)
+![Clear Task Preview](./public/assets/imgs/preview.png)
 
 ## ⚙️ Instalação
 
